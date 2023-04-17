@@ -3,6 +3,6 @@
 ## 标题2
 
 ### 标题3
-这是我的B站主页[率率的B站主页](https://space.bilibili.com/388957500?spm_id_from=333.976.0.0)
+这是我的B站主页:[率率的B站主页](https://space.bilibili.com/388957500?spm_id_from=333.976.0.0)
 
 
