@@ -1,5 +1,5 @@
 # 大家好，这里是率率在github的第一个文件！
-<img src="https://github.com/Marshall020830/marshall-2023.io/blob/main/pictures/%E5%A3%81%E7%BA%B8.jpg" alt="GENSOKYO" title="Gensokyo" width="180" height="105">>
+<img src="https://github.com/Marshall020830/marshall-2023.io/blob/main/pictures/%E5%A3%81%E7%BA%B8.jpg" alt="GENSOKYO" title="Gensokyo" width="800" height="600">
 
 ## 标题2
 
