@@ -9,4 +9,4 @@ https://user-images.githubusercontent.com/124442043/232489521-ff1f132a-630e-4d25
 这是我的B站主页:[率率的B站主页](https://space.bilibili.com/388957500?spm_id_from=333.976.0.0)
 
 
-theme: cayman
+remote_theme: pages-themes/cayman@v0.2.0
